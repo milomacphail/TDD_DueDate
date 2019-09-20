@@ -27,7 +27,6 @@ namespace PaymentDateCheck
                 }
             }
 
-
             Assert.AreEqual(check, weekDay);
         }
     }
